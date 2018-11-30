@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlayKidsMusic</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnPause">Pause</string>
+    <string name="btnStop">Stop</string>
+    <string name="DefaultText">Vamos se divertir Criançada !!!</string>
+
+
+</resources>
